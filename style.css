@@ -1,0 +1,43 @@
+body{
+    font-family: "Lato", sans-serif;
+}
+
+img{
+    width: 80px;
+}
+
+.container{
+    margin-bottom: 100px;
+}
+
+.btn{
+    color: #000000;
+    background-color: rgb(182, 201, 201);
+    padding: 5px 30px;
+}
+.price{
+    color: red;
+}
+.bg-color{
+    background-color: #fccccc;
+    padding: 20px 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px gray;
+}
+.col{
+    text-align: center;
+}
+.phone{
+    background-color: #f3c5e5;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px gray;
+}
+.card-footer{
+    border: none;
+}
+.Smartphone{
+    display: flex;
+}
+.laptop{
+    background-color: #3bf7f7;
+}
